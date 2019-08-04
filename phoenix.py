@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-	return 'Welcome to the Deep Learning End Point created by Jitesh Motwani'
+	return 'Welcome to the Deep Learning End Point created by Jitesh Motwani and Karan Dev'
 
 
 @app.route('/deeplearning/api/object_detection',methods = ['POST', 'GET'])
