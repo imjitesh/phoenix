@@ -3,3 +3,4 @@ __pycache__/*
 phoenixenv/*
 weights/*
 ._phoenix.py
+._detect.py
