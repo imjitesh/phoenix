@@ -4,3 +4,4 @@ phoenixenv/*
 weights/*
 ._phoenix.py
 ._detect.py
+*.pyc
