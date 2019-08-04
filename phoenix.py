@@ -1,4 +1,4 @@
-from detectAPI import *
+from detect import *
 from flask import Flask, redirect, url_for, request
 
 
