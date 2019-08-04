@@ -1,4 +1,10 @@
 # Byte-compiled / optimized / DLL files
+._phoenix.py
+._.gitignore
+phoenix.ini
+wsgi.py
+detect.pyc
+._detect.py
 __pycache__/
 *.py[cod]
 *$py.class
